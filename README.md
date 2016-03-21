@@ -5,6 +5,7 @@
   <li><a href="https://www.browserstack.com/">Browser Stack</a></li>
   <li><a href="https://developers.google.com/speed/pagespeed/insights/">Google's Page Speed Insights</a></li>
   <li><a href="http://tools.pingdom.com/fpt/">Pingdom Speed Test</a></li>
+  <li><a href="http://www.responsinator.com/">Responsinator</a></li>
   <li><a href="http://unminify.com/">Unminify</a></li>
   <li>Search form</li>
   <li>Navigation</li>
