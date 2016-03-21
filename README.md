@@ -29,7 +29,7 @@
   <li><a href="http://www.computerhope.com/issues/ch001274.htm">Test html, css, speed, accesibility, usability, and mobile readiness</li>
   <li><a href="https://mention.com/blog/the-5-best-front-end-developer-tools/">5 Best Front-End Dev Tools</a></li>
   <li><a href="http://code.tutsplus.com/tutorials/responsive-screenshots-with-casper--net-33142">Responsive Screenshots with Casper</a></li>
-  <li><a href"https://blog.newrelic.com/2013/06/04/simpler-ui-testing-with-casperjs-2/">Simpler UI Testing with Casper JS</a></li>
+  <li><a href="https://blog.newrelic.com/2013/06/04/simpler-ui-testing-with-casperjs-2/">Simpler UI Testing with Casper JS</a></li>
   <li><a href="https://blog.newrelic.com/2013/07/29/simpler-ui/">Simpler UI Testing with Casper JS Part 2</li>
   <li><a href="https://www.lullabot.com/articles/testing-the-front-end-with-casperjs">Testing the Front End with Casper JS</a></li>
   <li><a href="http://www.guru99.com/webservice-testing-beginner-guide.html">Web Service Testing</a></li>
