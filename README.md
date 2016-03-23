@@ -38,6 +38,7 @@
   <li><a href="https://www.espressologic.com/automate_rest_api_testing_with_selenium/">Automate REST API testing with Selenium</a></li>
   <li><a href="http://elementalselenium.com/tips/24-rest-apis">Fast and Reliable Test Setup with REST APIs</a></li>
   <li><a href="https://github.com/pataniqa/web-testing-examples">Web Testing Examples</a></li>
+  <li><a href="http://www.joostrap.com/support/tutorials-videos/204-testing-your-responsive-web-design-with-chrome-developer-mobile-emulator-tool">Chrome responsive dev tools</a></li>
   <li>vREST</li>
   <li>SoapUI</li>
   <li>Selenium</li>
